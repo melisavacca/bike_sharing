@@ -36,13 +36,11 @@ Overall, the largest population of riders comes from people who are subscribers 
 
 Another point to consider is additional costs, such as bike repairs.  
 Check out this chart that shows the bike repairs in NYC.  For example, Bike ID #32693 was used 197 times in the month of August. 
+
 ![image](https://user-images.githubusercontent.com/64279232/134997725-c934d77c-6d8f-4541-b034-6026bd952ca6.png)
 
 
 Some bikes happen to be used more often than others, causing some bikes to need repairs more often than others.  Below is a visualization of the bike utilization in NYC. For example, Bikeid 15374 had a trip duration of 2,515,716 seconds. 
-Unable to complete action
-There was a problem connecting to the data source "201908-citibike-tripdata".
 
-Would you like to edit the connection information?
 ![image](https://user-images.githubusercontent.com/64279232/134998126-1d9017d5-99a6-4d9f-9c30-c8b63433c308.png)
 
