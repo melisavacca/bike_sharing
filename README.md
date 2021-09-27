@@ -1,5 +1,8 @@
 # bikesharing
 
+## Link to Dashboard
+[link to dashboard](https://public.tableau.com/app/profile/melisa.vacca/viz/CitiBikesinNYC/CitiBikesinNYC?publish=yes)
+
 ## Overview of the Analysis
 
 The purpose of this analysis is to use NYC Citi Bike data to convince investors that a bike-sharing program in Des Moines is a solid buisness proposal.  We are able to create a number of visualizations to show one of the key stakeholders.  These include: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week.  
